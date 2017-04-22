@@ -515,7 +515,7 @@
 					<key>page21 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-16T22:17:30Z</date>
+						<date>2017-04-22T02:49:25Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -524,11 +524,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Xb3D1I8mOurm
-								RmLnwHgPPA==
+								LGxbsfgVvJAp
+								saQW6QzQbg==
 								</data>
 								<key>Size</key>
-								<integer>50812</integer>
+								<integer>52020</integer>
 							</dict>
 							<key>index_files/stacks-image-09e6a3c.png</key>
 							<dict>
@@ -634,11 +634,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								RNw2QzCOVnT2
-								2Ils6ij0og==
+								j8be1PAv7W1x
+								SbvdcVvshg==
 								</data>
 								<key>Size</key>
-								<integer>118497</integer>
+								<integer>121056</integer>
 							</dict>
 							<key>index_files/stacks_page_page21.js</key>
 							<dict>
@@ -1341,7 +1341,7 @@
 					<key>rw:plugin:stacks - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-20T04:16:30Z</date>
+						<date>2017-04-22T02:49:25Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1460,11 +1460,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0NCAlJLCv2gO
-								kua2K3CTfw==
+								EjncAfH5HdvS
+								uZMIboj+Sg==
 								</data>
 								<key>Size</key>
-								<integer>240843</integer>
+								<integer>199007</integer>
 							</dict>
 							<key>icon.png</key>
 							<dict>
@@ -1486,15 +1486,25 @@
 								<key>Size</key>
 								<integer>85578</integer>
 							</dict>
+							<key>serverdebug.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								1En2lSt2+6wN
+								jg5YYKqSvQ==
+								</data>
+								<key>Size</key>
+								<integer>2804</integer>
+							</dict>
 							<key>stacks.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								O0zIa5LmyiX9
-								U4EP1+YJFw==
+								68mDT99hpOCZ
+								Wq8fZXNLlA==
 								</data>
 								<key>Size</key>
-								<integer>1731</integer>
+								<integer>1715</integer>
 							</dict>
 							<key>styles/black/pace-theme-barber-shop.css</key>
 							<dict>

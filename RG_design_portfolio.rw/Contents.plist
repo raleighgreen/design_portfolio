@@ -515,7 +515,7 @@
 					<key>page21 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-22T02:52:23Z</date>
+						<date>2017-04-25T16:39:38Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -524,11 +524,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								LGxbsfgVvJAp
-								saQW6QzQbg==
+								LAmpZxZPKVT9
+								L6CJWtGsEw==
 								</data>
 								<key>Size</key>
-								<integer>52020</integer>
+								<integer>51948</integer>
 							</dict>
 							<key>index_files/stacks-image-09e6a3c.png</key>
 							<dict>
@@ -1341,7 +1341,7 @@
 					<key>rw:plugin:stacks - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-25T05:02:47Z</date>
+						<date>2017-04-25T16:39:38Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1500,11 +1500,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/0a1hJaS6DeQ
-								tOXvwd14ng==
+								68mDT99hpOCZ
+								Wq8fZXNLlA==
 								</data>
 								<key>Size</key>
-								<integer>1707</integer>
+								<integer>1715</integer>
 							</dict>
 							<key>styles/black/pace-theme-barber-shop.css</key>
 							<dict>

@@ -35,7 +35,7 @@
 					<key>ftp://bell.chillidoghosting.com</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-20T04:16:30Z</date>
+						<date>2017-04-25T05:02:47Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -64,11 +64,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								56lmTyP2QeyG
-								XMAJDeb27Q==
+								MGH+jDpNg2Oz
+								/SiTwQQrNg==
 								</data>
 								<key>Size</key>
-								<integer>138884</integer>
+								<integer>140103</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -94,11 +94,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								S5KgCIpnMAT7
-								xPSk6I5EmA==
+								SmPWFf3EE7mq
+								XJa6qJOfVA==
 								</data>
 								<key>Size</key>
-								<integer>36342</integer>
+								<integer>36310</integer>
 							</dict>
 							<key>rw_common/images/Raleig-Green-logo-large.png</key>
 							<dict>

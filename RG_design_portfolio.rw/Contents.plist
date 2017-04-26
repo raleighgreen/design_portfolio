@@ -23,7 +23,7 @@
 					<key>page0 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-26T19:39:07Z</date>
+						<date>2017-04-26T20:30:02Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -52,11 +52,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MGH+jDpNg2Oz
-								/SiTwQQrNg==
+								DgMlpqcVpJme
+								iEHEgUMX6A==
 								</data>
 								<key>Size</key>
-								<integer>140103</integer>
+								<integer>140161</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -82,8 +82,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Lv72lA8kcInM
-								DM1wpSkJRA==
+								ixtl8AKWt87q
+								b9CvOYD7cA==
 								</data>
 								<key>Size</key>
 								<integer>36337</integer>
@@ -3807,7 +3807,7 @@
 					<key>rw:theme:foundation - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-26T19:39:07Z</date>
+						<date>2017-04-26T20:37:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -3816,11 +3816,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/138H2TMklzS
-								RyeshQbMUg==
+								aKF7UPgg9DdK
+								Cy2AKT02pg==
 								</data>
 								<key>Size</key>
-								<integer>242348</integer>
+								<integer>242488</integer>
 							</dict>
 							<key>foundation.min.js</key>
 							<dict>
@@ -5936,7 +5936,7 @@ a:visited {
 i.fa.fa-angle-right {
 	position: relative !important;	
 	margin-left: -23px !important;	
-	padding-top: .05em !important;
+	padding-top: .03em !important;
 	background-color: rgba(255, 255, 255, 0) !important;
 }
 
@@ -5973,7 +5973,7 @@ console.log("Designed and built by Raleigh Green " + String.fromCharCode(0x00A9)
 					<key>hasChangedGlobalBody</key>
 					<true/>
 					<key>hasChangedGlobalCSS</key>
-					<true/>
+					<false/>
 					<key>hasChangedGlobalHeader</key>
 					<true/>
 					<key>hasChangedGlobalJavascript</key>

@@ -35,7 +35,7 @@
 					<key>ftp://bell.chillidoghosting.com</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T16:52:34Z</date>
+						<date>2017-04-27T20:30:22Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								srfx6yJwoihY
-								pRWwylXcEQ==
+								mUocPvJZzhE6
+								zLo1praHPA==
 								</data>
 								<key>Size</key>
-								<integer>53117</integer>
+								<integer>53111</integer>
 							</dict>
 							<key>index_files/stacks-image-09e6a3c.png</key>
 							<dict>
@@ -164,11 +164,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								oqa97nQD0uOC
-								wFWIKA0xhg==
+								+wRVXuzIhvi4
+								jKYLZwveMA==
 								</data>
 								<key>Size</key>
-								<integer>66970</integer>
+								<integer>67070</integer>
 							</dict>
 							<key>index_files/stacks_page_page21.php</key>
 							<dict>

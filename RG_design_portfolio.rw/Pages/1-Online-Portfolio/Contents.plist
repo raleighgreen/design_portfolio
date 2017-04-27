@@ -35,7 +35,7 @@
 					<key>ftp://bell.chillidoghosting.com</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-26T20:30:02Z</date>
+						<date>2017-04-27T16:52:34Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,31 +44,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								7UiywOuq+0gP
-								VXXGflQYBw==
+								iJZGZDdFExN7
+								B/up0pt5EA==
 								</data>
 								<key>Size</key>
-								<integer>3313</integer>
+								<integer>48456</integer>
 							</dict>
 							<key>favicon.ico</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								0xYynxbWjSgf
-								FHt4DHY2Cw==
+								ySeQD0HLQGLc
+								UuQOg4mxig==
 								</data>
 								<key>Size</key>
-								<integer>4286</integer>
+								<integer>32988</integer>
 							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DgMlpqcVpJme
-								iEHEgUMX6A==
+								MuqKFv58YEUI
+								wzQq5iJOjg==
 								</data>
 								<key>Size</key>
-								<integer>140161</integer>
+								<integer>139961</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -94,21 +94,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ixtl8AKWt87q
-								b9CvOYD7cA==
+								63RzTkcai8sz
+								fpPifwlXag==
 								</data>
 								<key>Size</key>
-								<integer>36337</integer>
+								<integer>37506</integer>
 							</dict>
-							<key>rw_common/images/Raleig-Green-logo-large.png</key>
+							<key>rw_common/images/Raleigh_Green_Logo.svg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								9X3dAa9AyNuS
-								3uLjnCNkdQ==
+								U+mCFfxz4UtI
+								Z94og+tU7A==
 								</data>
 								<key>Size</key>
-								<integer>42078</integer>
+								<integer>1641</integer>
 							</dict>
 							<key>rw_common/version.txt</key>
 							<dict>

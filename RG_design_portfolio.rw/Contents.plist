@@ -23,7 +23,7 @@
 					<key>page0 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -52,21 +52,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MuqKFv58YEUI
-								wzQq5iJOjg==
+								xLxlmMR7olI6
+								7fgWpmDvBw==
 								</data>
 								<key>Size</key>
-								<integer>139961</integer>
+								<integer>259604</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								wxNqkjtCBqLB
-								ynGZfKB4oQ==
+								uBav1fZp+dfq
+								kMBwKnnffA==
 								</data>
 								<key>Size</key>
-								<integer>79758</integer>
+								<integer>136647</integer>
 							</dict>
 							<key>files/stacks_page_page0.php</key>
 							<dict>
@@ -82,11 +82,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								XElaxyBPAp2T
-								iKGzdtajVw==
+								rdki6XrsFDdU
+								VOxH1gkwTA==
 								</data>
 								<key>Size</key>
-								<integer>37502</integer>
+								<integer>57054</integer>
 							</dict>
 							<key>rw_common/images/Raleigh_Green_Logo.svg</key>
 							<dict>
@@ -119,7 +119,7 @@
 					<key>page14 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -128,8 +128,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								gCSSPiZJ4mnN
-								2sFF6vGW5w==
+								zc/xykxeNLgW
+								5xPHPg9XSg==
 								</data>
 								<key>Size</key>
 								<integer>26780</integer>
@@ -185,7 +185,7 @@
 					<key>page15 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -194,8 +194,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								05HoQX6NDB0Y
-								cKFTQAXLlA==
+								PAcjGTBNu+jY
+								S4THtfntnA==
 								</data>
 								<key>Size</key>
 								<integer>26282</integer>
@@ -251,7 +251,7 @@
 					<key>page16 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -260,8 +260,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ikLatTgTIzkd
-								tMu83Xbrpg==
+								WbIOBsRH7/8i
+								uoIa4N9dVw==
 								</data>
 								<key>Size</key>
 								<integer>26539</integer>
@@ -317,7 +317,7 @@
 					<key>page17 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -326,8 +326,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								4v5dSo/ymUFz
-								rEiK82DPNQ==
+								cnRPOhPzSLpY
+								F6Xzoi5OAA==
 								</data>
 								<key>Size</key>
 								<integer>26064</integer>
@@ -383,7 +383,7 @@
 					<key>page18 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -392,8 +392,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								jRNISK5AQkMX
-								I2skivnfsw==
+								24Y1yJPsZS7k
+								37cREgZtsg==
 								</data>
 								<key>Size</key>
 								<integer>28595</integer>
@@ -449,7 +449,7 @@
 					<key>page19 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -458,8 +458,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								FvThI15kAb6W
-								zfLp+Gqn8w==
+								jSRSUQsr4e/L
+								vGDZ7qqkrw==
 								</data>
 								<key>Size</key>
 								<integer>25794</integer>
@@ -515,7 +515,7 @@
 					<key>page21 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -524,11 +524,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								mUocPvJZzhE6
-								zLo1praHPA==
+								bUfWqVo2pj1p
+								ampu/A3/zA==
 								</data>
 								<key>Size</key>
-								<integer>53111</integer>
+								<integer>52477</integer>
 							</dict>
 							<key>index_files/stacks-image-09e6a3c.png</key>
 							<dict>
@@ -634,8 +634,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Lz0Mlf0z0ScB
-								+RuDnUXg3g==
+								sE8ruzhaphxv
+								viA+1yJITg==
 								</data>
 								<key>Size</key>
 								<integer>120856</integer>
@@ -671,7 +671,7 @@
 					<key>page22 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -680,8 +680,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6n+5tpGWLWgl
-								f4zNNVFhdQ==
+								vljDTzR8QKNL
+								cLcNoQHCUQ==
 								</data>
 								<key>Size</key>
 								<integer>34536</integer>
@@ -807,7 +807,7 @@
 					<key>page4 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -816,8 +816,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								1lk7ID9U6AK3
-								0vxNkx4PUg==
+								/OwJX9myAVOY
+								yLCJrQ+gRQ==
 								</data>
 								<key>Size</key>
 								<integer>38368</integer>
@@ -933,7 +933,7 @@
 					<key>page5 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -942,8 +942,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								T6rbsHq/bAme
-								3A2CSfBvLQ==
+								ohTNWYKZuobA
+								BZa+e+2BLQ==
 								</data>
 								<key>Size</key>
 								<integer>32287</integer>
@@ -1039,7 +1039,7 @@
 					<key>page8 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1048,8 +1048,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								9uSL9ZJrfml4
-								Y/BcfiiuMQ==
+								FoqIxaecZyXv
+								0ysvSiDqbA==
 								</data>
 								<key>Size</key>
 								<integer>110511</integer>
@@ -1165,7 +1165,7 @@
 					<key>page9 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1174,8 +1174,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								el5hEpAnORkN
-								EE/iPFWaOA==
+								elJNqCaPvBqR
+								ZgXS11uKdw==
 								</data>
 								<key>Size</key>
 								<integer>49088</integer>
@@ -1341,7 +1341,7 @@
 					<key>rw:plugin:stacks - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -2375,6 +2375,16 @@
 								</data>
 								<key>Size</key>
 								<integer>1612</integer>
+							</dict>
+							<key>preview.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/dIC95kg240L
+								VLSwDm20uQ==
+								</data>
+								<key>Size</key>
+								<integer>33200</integer>
 							</dict>
 							<key>serverdebug.php</key>
 							<dict>
@@ -3807,7 +3817,7 @@
 					<key>rw:theme:foundation - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-04-27T20:30:22Z</date>
+						<date>2017-05-09T15:05:09Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -7158,7 +7168,7 @@
 					<key>WebClipIconUsed</key>
 					<true/>
 					<key>cacheBustingString</key>
-					<string>?rwcache=515017806</string>
+					<string>?rwcache=516035092</string>
 					<key>globalBody</key>
 					<string></string>
 					<key>globalCSS</key>

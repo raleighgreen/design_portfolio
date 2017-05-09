@@ -42,6 +42,8 @@
 				<string>/Projects/fretShapes2</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
+				<key>Hidden</key>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>

@@ -5254,6 +5254,8 @@
 					<true/>
 					<key>ObfuscateEmailAddress</key>
 					<true/>
+					<key>PinnedTabIconUsed</key>
+					<false/>
 					<key>PublishingDestinations</key>
 					<array>
 						<dict>

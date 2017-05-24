@@ -23,7 +23,7 @@
 					<key>page0 - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-05-19T15:29:46Z</date>
+						<date>2017-05-24T18:30:48Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -52,11 +52,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								TdxICPKlL6gY
-								DCPUjoZDKA==
+								UsiFubPIBLdY
+								733hjaKqfg==
 								</data>
 								<key>Size</key>
-								<integer>259604</integer>
+								<integer>259748</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -82,11 +82,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qYsAoUNa0YB7
-								oXYa2xzLdw==
+								+PRD3fve+iYA
+								UQbdgy0ZPw==
 								</data>
 								<key>Size</key>
-								<integer>56494</integer>
+								<integer>56488</integer>
 							</dict>
 							<key>rw_common/images/Raleigh_Green_Logo.svg</key>
 							<dict>
@@ -1341,7 +1341,7 @@
 					<key>rw:plugin:stacks - ftp:/bell.chillidoghosting.com/public_html</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-05-19T15:29:46Z</date>
+						<date>2017-05-24T18:30:48Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1510,11 +1510,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								68mDT99hpOCZ
-								Wq8fZXNLlA==
+								/0a1hJaS6DeQ
+								tOXvwd14ng==
 								</data>
 								<key>Size</key>
-								<integer>1715</integer>
+								<integer>1707</integer>
 							</dict>
 							<key>styles/black/pace-theme-barber-shop.css</key>
 							<dict>
